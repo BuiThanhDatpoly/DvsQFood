@@ -36,6 +36,6 @@ public class Screen extends AppCompatActivity {
                 finish();
             }
         });
-        // hello
+        // hello work
     }
 }
